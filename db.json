@@ -1,0 +1,104 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Dọn dẹp phòng ngủ",
+      "content": "",
+      "priority": 2,
+      "createdAt": "2025-04-08T09:00:00.000Z",
+      "modifiedAt": "2025-04-08T09:00:00.000Z",
+      "tags": ["việc nhà"],
+      "color": "Colors.lightGreenAccent"
+    },
+    {
+      "id": 2,
+      "title": "Tập thể dục buổi sáng",
+      "content": "",
+      "priority": 1,
+      "createdAt": "2025-04-08T09:01:00.000Z",
+      "modifiedAt": "2025-04-08T09:01:00.000Z",
+      "tags": ["sức khỏe"],
+      "color": "Colors.orangeAccent"
+    },
+    {
+      "id": 3,
+      "title": "Lập kế hoạch chi tiêu tuần này",
+      "content": "",
+      "priority": 3,
+      "createdAt": "2025-04-08T09:02:00.000Z",
+      "modifiedAt": "2025-04-08T09:02:00.000Z",
+      "tags": ["tài chính"],
+      "color": "Colors.indigoAccent"
+    },
+    {
+      "id": 4,
+      "title": "Học 10 từ vựng tiếng Anh",
+      "content": "",
+      "priority": 2,
+      "createdAt": "2025-04-08T09:03:00.000Z",
+      "modifiedAt": "2025-04-08T09:03:00.000Z",
+      "tags": ["học tập"],
+      "color": "Colors.cyanAccent"
+    },
+    {
+      "id": 5,
+      "title": "Kiểm tra email công việc",
+      "content": "",
+      "priority": 1,
+      "createdAt": "2025-04-08T09:04:00.000Z",
+      "modifiedAt": "2025-04-08T09:04:00.000Z",
+      "tags": ["công việc"],
+      "color": "Colors.blueGrey"
+    },
+    {
+      "id": 6,
+      "title": "Viết nhật ký",
+      "content": "",
+      "priority": 1,
+      "createdAt": "2025-04-08T09:05:00.000Z",
+      "modifiedAt": "2025-04-08T09:05:00.000Z",
+      "tags": ["cá nhân"],
+      "color": "Colors.pink.shade100"
+    },
+    {
+      "id": 7,
+      "title": "Cập nhật ứng dụng trên điện thoại",
+      "content": "",
+      "priority": 3,
+      "createdAt": "2025-04-08T09:06:00.000Z",
+      "modifiedAt": "2025-04-08T09:06:00.000Z",
+      "tags": ["công nghệ"],
+      "color": "Colors.tealAccent"
+    },
+    {
+      "id": 8,
+      "title": "Chuẩn bị tài liệu thuyết trình",
+      "content": "",
+      "priority": 3,
+      "createdAt": "2025-04-08T09:07:00.000Z",
+      "modifiedAt": "2025-04-08T09:07:00.000Z",
+      "tags": ["công việc"],
+      "color": "Colors.deepPurpleAccent"
+    },
+    {
+      "id": 9,
+      "title": "Nấu cơm tối",
+      "content": "",
+      "priority": 2,
+      "createdAt": "2025-04-08T09:08:00.000Z",
+      "modifiedAt": "2025-04-08T09:08:00.000Z",
+      "tags": ["việc nhà"],
+      "color": "Colors.yellowAccent"
+    },
+    {
+      "id": 10,
+      "title": "Tưới cây ban công",
+      "content": "",
+      "priority": 1,
+      "createdAt": "2025-04-08T09:09:00.000Z",
+      "modifiedAt": "2025-04-08T09:09:00.000Z",
+      "tags": ["thư giãn"],
+      "color": "Colors.greenAccent"
+    }
+  ]
+}
